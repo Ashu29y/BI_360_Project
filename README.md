@@ -4,7 +4,7 @@
 🚀 Developed as part of the **Power BI for Data Analytics** course by [Codebasics](https://www.codebasics.io/), guided by **Hemanand Vadivel** and **Dhaval Patel**.
 
 🔗 **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7308041431225372672/)  
-🔗 **Live Project Link**: https://app.powerbi.com/links/xc-UcUyUT1?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
+🔗 **Live Project Link**: [Live Dashboard](https://app.powerbi.com/links/xc-UcUyUT1?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 ---
 
