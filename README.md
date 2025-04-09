@@ -1,10 +1,10 @@
-# BI_360_Project
-# 🧠 Power BI Sales Dashboard - Industry Ready Project
+
+# 🧠 Power BI 360 View Dashboard - Industry Ready Project
 
 🚀 Developed as part of the **Power BI for Data Analytics** course by [Codebasics](https://www.codebasics.io/), guided by **Hemanand Vadivel** and **Dhaval Patel**.
 
 🔗 **LinkedIn Post**: [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7308041431225372672/)  
-🔗 **Live Project Link**: [Check Dashboard](https://lnkd.in/d9z2iX23)
+🔗 **Live Project Link**: https://app.powerbi.com/links/xc-UcUyUT1?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
 
 ---
 
@@ -44,13 +44,6 @@ This dashboard is designed to help business teams track and analyze key sales me
 
 ---
 
-## 📁 Project Files
-
-- `SalesDashboard.pbix` – Final Power BI report file
-- `SQL Queries.sql` – SQL used for data extraction
-- `Sample_Data.xlsx` – Excel source used for quick checks
-- `DAX Measures.txt` – Measures used in dashboard
-- `Project_Charter.pdf` – Initial planning document
 
 ---
 
